@@ -1,5 +1,5 @@
 
-#' strsplit1: R Packages Function by Jennifer Bryan (Reproduced Here)
+#' strsplit1: R Regex Function by Jennifer Bryan (Reproduced Here)
 #'
 #' @details
 #' This function, as well as the full package surrounding it,
@@ -13,8 +13,11 @@
 #' common follow-up operation of extracting the desired string vector.
 #'
 #'
-#' @param x the string to be split
-#' @param split the character delimiting the input string x
+#' @param x
+#' the string to be split
+#'
+#' @param split
+#' the character delimiting the input string x
 #'
 #' @return
 #' the string vector resulting from splitting string 'x' on delimiter 'split'

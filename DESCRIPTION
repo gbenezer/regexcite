@@ -5,8 +5,8 @@ Authors@R:
     person("First", "Last", , "first.last@example.com", role = c("aut", "cre"),
            comment = c(ORCID = "YOUR-ORCID-ID"))
 Description: A reproduction of Jennifer Bryant and Hadley Wickham's regexcite
-package in the first chapter of "R Packages (2e)" containing helper functions
-to un-list strsplit output
+    package in the first chapter of "R Packages (2e)" containing helper
+    functions to un-list strsplit output.
 License: GPL (>= 3)
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)

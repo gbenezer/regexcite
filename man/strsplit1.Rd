@@ -2,7 +2,7 @@
 % Please edit documentation in R/strsplit1.R
 \name{strsplit1}
 \alias{strsplit1}
-\title{strsplit1: R Packages Function by Jennifer Bryan (Reproduced Here)}
+\title{strsplit1: R Regex Function by Jennifer Bryan (Reproduced Here)}
 \usage{
 strsplit1(x, split)
 }
@@ -15,7 +15,7 @@ strsplit1(x, split)
 the string vector resulting from splitting string 'x' on delimiter 'split'
 }
 \description{
-strsplit1: R Packages Function by Jennifer Bryan (Reproduced Here)
+strsplit1: R Regex Function by Jennifer Bryan (Reproduced Here)
 }
 \details{
 This function, as well as the full package surrounding it,
